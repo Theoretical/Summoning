@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+	<Region>NA</Region> <!-- NA/EU/EUNE/BR/TR/RU -->
+	<Referral>53505211c70ad525993905</Referral> <!-- 53505211c70ad525993905</Referral> -->
+	<GamePath>C:\Riot Games\League of Legends\RADS\solutions\lol_game_client_sln\releases\0.0.1.39\deploy\</GamePath>
+	<MaxLevel>10</MaxLevel>
+	<MaxBots>6</MaxBots>
+	<ReferralCount>50</ReferralCount>
+	<UseCfgVersion>1</UseCfgVersion>
+	<Version>4.8.14_05_16_15_05</Version>
+	<Dominion>1</Dominion>
+	<Dominion3v3>1</Dominion3v3>
+	<UseCoopVsAi>0</UseCoopVsAi>
+	<UseMySQL>1</UseMySQL>
+	<BotId>Master</BotId>
+	
+	<MySQL>
+		<Host>192.168.0.10</Host>
+		<Port>3306</Port>
+		<User>root</User>
+		<Password>qweasdzxc123</Password>
+		<Database>refs</Database>
+		<Table>REFSNA</Table>
+	</MySQL>
+</Config>
